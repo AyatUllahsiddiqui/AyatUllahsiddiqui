@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyatUllahsiddiqui
 - 👀 I’m interested in learning programmes, codes
-- 🌱 I’m currently learning... 
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me ...
 
